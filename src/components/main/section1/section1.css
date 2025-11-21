@@ -1,0 +1,60 @@
+.stn1__start h1{
+    font-family: Red Hat Display;
+font-weight: 500;
+font-size: 50px;
+color: #000000;
+line-height: 70px;
+letter-spacing: 0%;
+width: 500px;
+}
+.stn1__start p{
+    font-family: Red Hat Display;
+font-weight: 400;
+font-size: 20px;
+color: #555555;
+line-height: 32px;
+letter-spacing: 0%;
+width: 520px;
+}
+.stn1__start input{
+    font-family: Red Hat Display;
+font-weight: 400;
+font-size: 17px;
+color: #999999;
+line-height: 20px;
+letter-spacing: 0%;
+padding: 13px 200px 13px 16px;
+border: none;
+}
+.stn1__start button{
+    font-family: Red Hat Display;
+font-weight: 500;
+font-size: 18px;
+color: #402F2C;
+line-height: 24px;
+letter-spacing: 0%;
+background-color:white;
+padding: 16px 30px;
+border: 2px solid #402F2C;
+border-radius: 8px;
+}
+.stn1__start button:hover{
+    background-color: #402F2C;
+    color: white;
+    cursor: pointer;
+}
+.stn1 img{
+    width: 650px;
+height: 550px;
+}
+.stn1__start{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 15px;
+}
+.stn1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
