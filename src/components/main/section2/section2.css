@@ -1,0 +1,17 @@
+
+.section2-images{
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    margin: 50px 0px;
+
+}
+.section2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    border-bottom: 1px solid #EEEEEE;
+    border-top:1px solid #EEEEEE ;
+   
+}
