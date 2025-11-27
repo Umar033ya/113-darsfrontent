@@ -1,0 +1,59 @@
+.review-box {
+  width: 680px;
+  margin: 40px 0;
+  font-family: "Inter", Arial, sans-serif;
+  color: #222;
+}
+
+.review-title {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+
+.stars {
+  font-size: 26px;
+  color: #fbbf24; /* yellow star */
+  letter-spacing: 3px;
+  margin-bottom: 20px;
+}
+
+.review-text {
+  width: 620px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #555;
+  position: relative;
+}
+
+.quote-start {
+  color: #4cc59a;
+  font-size: 28px;
+  margin-right: 4px;
+}
+
+.quote-end {
+  color: #4cc59a;
+  font-size: 28px;
+  margin-left: 6px;
+}
+
+.author {
+  margin-top: 40px;
+}
+
+.author h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.author p {
+  margin-top: 4px;
+  font-size: 16px;
+  color: #666;
+}
+
+.ele{
+  display: flex;
+  justify-content: center;
+}
